@@ -1,0 +1,5 @@
+{
+  "name": "EduAdmin Dashboard",
+  "description": "A comprehensive school administration dashboard featuring student management with CRUD operations, statistical overviews, and a responsive layout.",
+  "requestFramePermissions": []
+}
